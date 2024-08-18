@@ -22,9 +22,9 @@ Please join this discord server: https://discord.gg/celestialios if you need sup
 
 iOS 17.6+: Fall+Guys_11.1.4_decrypted.ipa
 
-iOS 17.0.1-17.5.1:
+iOS 17.0.1-17.5.1: FallGuys_CrashFix.ipa
 
-TrollStore:
+TrollStore: FallGuys_CrashFix.ipa
 
 ## Im Crashing Or Encountering Other Issues
 Join the discord here for support: https://discord.gg/2Tj983Gcgq
@@ -37,4 +37,5 @@ If you are signing with ESign please enable **UISupportedDevices** and with Side
 
 I'm unsure if other signing methods work since I only tested these two, go ahead and try your preferred way if you want.
 
+If nothing else works run the fall gusy IPA with [LiveContainer](https://github.com/khanhduytran0/LiveContainer)
 If you're encountering any sort of crashes double check the IPA you downloaded, join the discord if you need further help.
