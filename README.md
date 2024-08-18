@@ -6,12 +6,12 @@
 Unfortunately Fortnite will only work if you're using Trollstore or a paid dev cert, we recommend [MapleSign](https://maplesign.ca/),  this is due to an Apple limitation which cannot be fixed.
 
 ## How to install with Apple Dev cetificate 
-If you own a MapleSign or Signulous cetificate or TrollStore you should be able to install without needing to do anything but downloading the IPA
+If you own a MapleSign or Signulous cetificate or TrollStore you should be able to install without needing to do anything but downloading the IPA.
 
 If youre using your own paid certificate enable th follow entitlements:
-**Extended Virtual Addressing** and **Increased Memory Limit**
+**Extended Virtual Addressing** and **Increased Memory Limit**.
 
-Once you've done that go ahead and use your certification with the signing method of your choice
+Once you've done that go ahead and use your certification with the signing method of your choice.
 
 ## Support and other Issues
 Please join this discord server: https://discord.gg/celestialios if you need support and would like to have the IPAs before anyone else as we decrypted both Fall Guys and Fortnite first.
@@ -33,7 +33,7 @@ Join the discord here for support: https://discord.gg/2Tj983Gcgq
 Unlike Fortnite Fall Guys does not need any kind of special entitlements to play.
 I recommend using [ESign](https://esign.yyyue.xyz/) with any form of certificate or [Sideloadly](https://sideloadly.io/) if you do not have a certificate.
 
-If you are signing with ESign please enable **UISupportedDevices** and with Sideloadly enable **Remove Device Limiitation** in advanced options this should stop an "Unable to install" error appearing when you sign it
+If you are signing with ESign please enable **UISupportedDevices** and with Sideloadly enable **Remove Device Limiitation** in advanced options this should stop an "Unable to install" error appearing when you sign it.
 
 I'm unsure if other signing methods work since I only tested these two, go ahead and try your preferred way if you want.
 
