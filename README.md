@@ -3,7 +3,7 @@
 # Fortnite
 
 ## Crashing on Install
-Unfortunatley Fortnite will only work if you're using Trollstore or a paid dev cert, we recommend [MapleSign](https://maplesign.ca/),  this is due to an Apple limitation which cannot be fixed.
+Unfortunately Fortnite will only work if you're using Trollstore or a paid dev cert, we recommend [MapleSign](https://maplesign.ca/),  this is due to an Apple limitation which cannot be fixed.
 
 ## How to install with Apple Dev cetificate 
 If you own a MapleSign or Signulous cetificate or TrollStore you should be able to install without needing to do anything but downloading the IPA
@@ -14,7 +14,7 @@ If youre using your own paid certificate enable th follow entitlements:
 Once you've done that go ahead and use your certification with the signing method of your choice
 
 ## Support and other Issues
-Please join this discord server: https://discord.gg/2Tj983Gcgq if you need support and would like to have the IPAs before anyone else as we decrypted both Fall Guys and Fortnite first.
+Please join this discord server: https://discord.gg/celestialios if you need support and would like to have the IPAs before anyone else as we decrypted both Fall Guys and Fortnite first.
 
 # Fall Guys
 
