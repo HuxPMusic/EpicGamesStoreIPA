@@ -36,6 +36,6 @@ I recommend using [ESign](https://esign.yyyue.xyz/) with any form of certificate
 If you are signing with ESign please enable **UISupportedDevices** when signing 
 If you are signing with Sideloadly enable **Remove Device Limiitation** in advanced options this should stop an "Unable to install" error appearing
 
-I'm unsure if other signing methods work since I only tested these two, go haead nad try your prefered way if you want.
+I'm unsure if other signing methods work since I only tested these two, go ahead and try your preferred way if you want.
 
 If you're encountering any sort of crashes double check the IPA you downloaded, join the discord if you need further help.
