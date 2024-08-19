@@ -4,7 +4,7 @@
 
 ## Crashing on Install
 Unfortunately Fortnite will only work if you're using Trollstore or a paid dev cert, we recommend [MapleSign](https://maplesign.ca/),  this is due to an Apple limitation which cannot be fixed.
-[Click to Download](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fortnite_Decrypted.ipa)
+[Click to Download](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fortnite_31.00.1_QoL.ipa)
 ## How to install with Apple Dev cetificate 
 If you own a MapleSign, Signulous cetificate or TrollStore you should be able to install without needing to do anything but downloading the IPA.
 
