@@ -37,5 +37,5 @@ If you are signing with ESign please enable **UISupportedDevices** and with Side
 
 I'm unsure if other signing methods work since I only tested these two, go ahead and try your preferred way if you want.
 
-If nothing else works run the fall gusy IPA with [LiveContainer](https://github.com/khanhduytran0/LiveContainer)
+If nothing else works run the fall guys IPA with [LiveContainer](https://github.com/khanhduytran0/LiveContainer)
 If you're encountering any sort of crashes double check the IPA you downloaded, join the discord if you need further help.
