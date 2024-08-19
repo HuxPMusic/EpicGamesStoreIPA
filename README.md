@@ -33,9 +33,10 @@ Join the discord here for support: https://discord.gg/2Tj983Gcgq
 Unlike Fortnite, Fall Guys does not need any kind of special entitlements to play.
 I recommend using [ESign](https://esign.yyyue.xyz/) with any form of certificate or [Sideloadly](https://sideloadly.io/) if you do not have a certificate.
 
-If you are signing with ESign please enable **UISupportedDevices** and with Sideloadly enable **Remove Device Limiitation** in advanced options this should stop an "Unable to install" error appearing when you sign it.
+~~If you are signing with ESign please enable **UISupportedDevices** and with Sideloadly enable **Remove Device Limiitation** in advanced options this should stop an "Unable to install" error appearing when you sign it.~~
 
-I'm unsure if other signing methods work since I only tested these two, go ahead and try your preferred way if you want.
+Fall Guys has been updated to remove the step above and now works with every signer like Scarlet without crashing. Install the latest QoL IPA [Fall+Guys_QoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_QoL_11.1.4_decrypted.ipa)
 
 If nothing else works run the fall guys IPA with [LiveContainer](https://github.com/khanhduytran0/LiveContainer)
+
 If you're encountering any sort of crashes double check the IPA you downloaded, join the discord if you need further help.
