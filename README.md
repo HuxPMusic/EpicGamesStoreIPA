@@ -20,7 +20,7 @@ Please join this discord server: https://discord.gg/celestialios if you need sup
 
 ## Which Version Should I Install?
 
-iOS 17.6+: [Fall+Guys_FixedQoL_11.1.4_decrypted.ipa]([Fall+Guys_FixedQoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_FixedQoL_11.1.4_decrypted.ipa)
+iOS 17.6+: [Fall+Guys_FixedQoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_FixedQoL_11.1.4_decrypted.ipa)
 
 iOS 17.0.1-17.5.1: [FallGuys_CrashFix.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/FallGuys_CrashFix.ipa)
 
