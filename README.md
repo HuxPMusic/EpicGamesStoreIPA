@@ -20,7 +20,7 @@ Please join this discord server: https://discord.gg/celestialios if you need sup
 
 ## Which Version Should I Install?
 
-iOS 17.6+: [Fall+Guys_QoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_QoL_11.1.4_decrypted.ipa)
+iOS 17.6+: [Fall+Guys_FixedQoL_11.1.4_decrypted.ipa]([Fall+Guys_FixedQoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_FixedQoL_11.1.4_decrypted.ipa)
 
 iOS 17.0.1-17.5.1: [FallGuys_CrashFix.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/FallGuys_CrashFix.ipa)
 
@@ -35,7 +35,7 @@ I recommend using [ESign](https://esign.yyyue.xyz/) with any form of certificate
 
 ~~If you are signing with ESign please enable **UISupportedDevices** and with Sideloadly enable **Remove Device Limiitation** in advanced options this should stop an "Unable to install" error appearing when you sign it.~~
 
-Fall Guys has been updated to remove the step above and now works with every signer like Scarlet without crashing. Install the latest QoL IPA [Fall+Guys_QoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_QoL_11.1.4_decrypted.ipa)
+Fall Guys has been updated to remove the step above and now works with every signer like Scarlet without crashing. Install the latest QoL IPA [Fall+Guys_FixedQoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_FixedQoL_11.1.4_decrypted.ipa)
 
 If nothing else works run the fall guys IPA with [LiveContainer](https://github.com/khanhduytran0/LiveContainer)
 
