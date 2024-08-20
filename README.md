@@ -1,5 +1,5 @@
 # Epic Games Store IPA Repository
-# Discord Server Was Terminated, I'll update when theres a new one
+# JOIN THIS SERVER https://discord.gg/mCQyKEye old server was terminated and vanity url was taken by malicious users 
 
 # Fortnite
 
@@ -28,7 +28,7 @@ iOS 17.0.1-17.5.1: [FallGuys_CrashFix.ipa](https://github.com/atellies/EpicGames
 TrollStore: [FallGuys_CrashFix.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/FallGuys_CrashFix.ipa)
 
 ## Im Crashing Or Encountering Other Issues
-Join the discord here for support: https://discord.gg/2Tj983Gcgq
+Join the discord here for support: https://discord.gg/mCQyKEye
 
 ## How to Install
 Unlike Fortnite, Fall Guys does not need any kind of special entitlements to play.
