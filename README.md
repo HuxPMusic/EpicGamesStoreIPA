@@ -1,5 +1,5 @@
 # Epic Games Store IPA Repository
-# Discord Server Was Terminated, Ill update when theres a new one
+# Discord Server Was Terminated, I'll update when theres a new one
 
 # Fortnite
 
