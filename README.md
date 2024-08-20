@@ -1,7 +1,7 @@
 # Epic Games Store IPA Repository
 
 ## Need Support or Want Updates? Join the Community
-**Discord Server:** [Join here](https://discord.gg/SzR5ykEe8D)  
+**Discord Server:** [Join here](https://discord.gg/ukJfR9kX8n)  
 *Note: The old server was terminated, and the vanity URL was taken.*
 
 ---
