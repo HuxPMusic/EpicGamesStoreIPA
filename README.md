@@ -15,7 +15,7 @@ If you're using your own paid certificate enable the follow entitlements:
 Once you've done that go ahead and use your certification with the signing method of your choice.
 
 ## Support and other Issues
-Please join this discord server: https://discord.gg/celestialios if you need support and would like to have the IPAs before anyone else as we decrypted both Fall Guys and Fortnite first.
+Please join this discord server: https://discord.gg/mCQyKEye if you need support and would like to have the IPAs before anyone else as we decrypted both Fall Guys and Fortnite first.
 
 # Fall Guys
 
