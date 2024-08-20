@@ -1,44 +1,40 @@
 # Epic Games Store IPA Repository
-# JOIN THIS SERVER: https://discord.gg/SzR5ykEe8D
-old server was terminated and vanity url was taken 
+
+## Need Support or Want Updates? Join the Community
+**Discord Server:** [Join here](https://discord.gg/SzR5ykEe8D)  
+*Note: The old server was terminated, and the vanity URL was taken.*
+
+---
 
 # Fortnite
 
-## Crashing on Install
-Unfortunately Fortnite will only work if you're using Trollstore or a paid dev cert, we recommend [MapleSign](https://maplesign.ca/),  this is due to an Apple limitation which cannot be fixed.
-[Click to Download](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fortnite_31.00.1_QoL.ipa)
-## How to install with Apple Dev cetificate 
-If you own a MapleSign, Signulous cetificate or TrollStore you should be able to install without needing to do anything but downloading the IPA.
+## Installation Issues
+Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. We recommend [MapleSign](https://maplesign.ca/) due to an Apple limitation that cannot be bypassed.
 
-If you're using your own paid certificate enable the follow entitlements:
-**Extended Virtual Addressing** and **Increased Memory Limit**.
+**[Download Fortnite for iOS 16.0+](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.ipa)**
 
-Once you've done that go ahead and use your certification with the signing method of your choice.
+## How to Install with an Apple Developer Certificate
+If you have a MapleSign, Signulous certificate, or TrollStore, you should be able to install the IPA directly.
 
-## Support and other Issues
-Please join this discord server: https://discord.gg/SzR5ykEe8D if you need support and would like to have the IPAs before anyone else as we decrypted both Fall Guys and Fortnite first.
+For users with their own paid certificate:
+1. Enable the following entitlements:
+   - **Extended Virtual Addressing**
+   - **Increased Memory Limit**
+2. Sign the IPA with your certificate using your preferred signing method.
+
+---
 
 # Fall Guys
 
 ## Which Version Should I Install?
 
-iOS 17.6+: [Fall+Guys_FixedQoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_FixedQoL_11.1.4_decrypted.ipa)
-
-iOS 17.0.1-17.5.1: [FallGuys_CrashFix.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/FallGuys_CrashFix.ipa)
-
-TrollStore: [FallGuys_CrashFix.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/FallGuys_CrashFix.ipa)
-
-## Im Crashing Or Encountering Other Issues
-Join the discord here for support: https://discord.gg/SzR5ykEe8D
+- **iOS 17.4+:** [Download Fall Guys for iOS 17.4+](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/FallGuys.ipa)
+- **iOS 16.0-17.3.1:** [Download Fall Guys for iOS 16.0-17.3.1](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/FallGuys16.ipa)
 
 ## How to Install
-Unlike Fortnite, Fall Guys does not need any kind of special entitlements to play.
-I recommend using [ESign](https://esign.yyyue.xyz/) with any form of certificate or [Sideloadly](https://sideloadly.io/) if you do not have a certificate.
+Unlike Fortnite, Fall Guys doesn't require special entitlements to play. You can use [ESign](https://esign.yyyue.xyz/) with any certificate or [Sideloadly](https://sideloadly.io/) without a certificate. The latest update works with any signing method, such as Scarlet, without crashing.
 
-~~If you are signing with ESign please enable **UISupportedDevices** and with Sideloadly enable **Remove Device Limiitation** in advanced options this should stop an "Unable to install" error appearing when you sign it.~~
+---
 
-Fall Guys has been updated to remove the step above and now works with every signer like Scarlet without crashing. Install the latest QoL IPA [Fall+Guys_FixedQoL_11.1.4_decrypted.ipa](https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_FixedQoL_11.1.4_decrypted.ipa)
-
-If nothing else works run the fall guys IPA with [LiveContainer](https://github.com/khanhduytran0/LiveContainer)
-
-If you're encountering any sort of crashes double check the IPA you downloaded, join the discord if you need further help.
+## Disclaimer
+The original applications are the property of their respective owners, including but not limited to Epic Games Inc. The modifications provided here are solely for personal use, and the original applications must be legally obtained. Redistribution of these modified versions is done for educational purposes only, and no ownership of the original content is claimed.
