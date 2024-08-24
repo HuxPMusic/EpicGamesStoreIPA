@@ -5,7 +5,6 @@
 *Note: The old server was terminated, and the vanity URL was taken.*
 
 ---
--.DECRYPTED.BY.CELESTIALiOS
 # Fortnite
 
 ## Installation Issues
