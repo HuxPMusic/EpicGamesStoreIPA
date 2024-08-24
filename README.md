@@ -5,13 +5,13 @@
 *Note: The old server was terminated, and the vanity URL was taken.*
 
 ---
-
+-.DECRYPTED.BY.CELESTIALiOS
 # Fortnite
 
 ## Installation Issues
 Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. We recommend [MapleSign](https://maplesign.ca/) due to an Apple limitation that cannot be bypassed.
 
-**[Download Fortnite for iOS 16.0+](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.ipa)**
+**[Download Fortnite for iOS 16.0+](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.v31.00.2.ipa)**
 
 ## How to Install with an Apple Developer Certificate
 If you have a MapleSign, Signulous certificate, or TrollStore, you should be able to install the IPA directly.
