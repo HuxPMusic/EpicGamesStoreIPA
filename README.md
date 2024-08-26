@@ -8,7 +8,7 @@
 # Fortnite
 
 ## Installation Issues
-Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. We recommend [MapleSign](https://maplesign.ca/) due to an Apple limitation that cannot be bypassed.
+Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. We recommend [KravaSign (Previously Maple](https://kravasign.com/) due to an Apple limitation that cannot be bypassed.
 
 **[Download Fortnite for iOS 16.0+](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.v31.00.2.ipa)**
 
@@ -31,7 +31,7 @@ For users with their own paid certificate:
 - **iOS 16.0-17.3.1:** [Download Fall Guys for iOS 16.0-17.3.1](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/FallGuys16.ipa)
 
 ## How to Install
-Unlike Fortnite, Fall Guys doesn't require special entitlements to play. You can use [ESign](https://esign.yyyue.xyz/) with any certificate or [Sideloadly](https://sideloadly.io/) without a certificate. The latest update works with any signing method without crashing.
+Unlike Fortnite, Fall Guys doesn't require special entitlements to play. You can use [ESign](https://www.stabbed.lol/esign/ESignV5.0_noLogs_V1.1.ipa) with any certificate or [Sideloadly](https://sideloadly.io/) without a certificate. The latest update works with any signing method without crashing.
 
 ---
 
