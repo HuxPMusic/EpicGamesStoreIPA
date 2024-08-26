@@ -8,7 +8,7 @@
 # Fortnite
 
 ## Installation Issues
-Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. We recommend [KravaSign (Previously Maple)](https://kravasign.com/) due to an Apple limitation that cannot be bypassed.
+Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. Due to an Apple limitation that cannot be bypassed.
 
 **[Download Fortnite for iOS 16.0+](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.v31.00.2.ipa)**
 
