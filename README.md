@@ -1,6 +1,6 @@
 # Epic Games Store IPA Repository
 
-## Need Support or Want Updates? Join the Community
+## Need Support or Want Updates? Join the Partner Server
 **Discord Server:** [Join here](https://discord.gg/celestialios)  
 *Note: The old server was terminated, and the vanity URL was taken.*
 
