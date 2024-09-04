@@ -1,5 +1,7 @@
 # Epic Games Store IPA Repository
 
+## You can find all IPAs on [**Signulous**](https://www.signulous.com) 3 Days before we post them here!
+
 ## Need Support or Want Updates? Join the Partner Server
 **Discord Server:** [Join here](https://discord.gg/celestialios)  
 *Note: The old server was terminated, and the vanity URL was taken.*
