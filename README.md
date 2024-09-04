@@ -1,6 +1,6 @@
 # Epic Games Store IPA Repository
 
-## You can find all IPAs on [**Signulous**](https://www.signulous.com) 3 Days before we post them here!
+We have partnered with [Signulous](https://www.signulous.com/)! They are providing us with support in our efforts to share games from Epic on iOS globally. New versions of apps are available immediately on Signulous. We'll publish IPA files a few days later, but using Signulous is the easiest way to install games like [Fortnite](https://www.signulous.com/fortnite) and support our team.
 
 ## Need Support or Want Updates? Join the Partner Server
 **Discord Server:** [Join here](https://discord.gg/celestialios)  
