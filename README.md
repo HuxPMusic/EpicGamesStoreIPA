@@ -10,7 +10,7 @@ We have partnered with [Signulous](https://www.signulous.com/)! They are providi
 # Fortnite
 
 ## Installation Issues
-Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. Due to an Apple limitation that cannot be bypassed.
+Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. This is due to an Apple limitation that cannot be bypassed.
 
 **[Download Fortnite for iOS 16.0+](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.v31.00.2+UPD.ipa)**
 
@@ -40,18 +40,18 @@ Unlike Fortnite, Fall Guys doesn't require special entitlements to play. You can
 ## FAQ
 
 - How do i install Fortnite for free on iOS 16.7+?
-  - You don't, Trollstore only supports iOS 15.0-16.6.1 and Fortnite only supports iOS 16.0+
+  - You don't, Trollstore only supports iOS 15.0-16.6.1 and Fortnite only supports iOS 16.0+.
 
 - Im on iOS 15.x (or below) why is Fortnite/Fall Guys crashing?
-  - Fortnite only supports iOS 16.0+
-  - Fall Guys only supports iOS 17.4+ normally, this can be pushed down to iOS 16.0+ with the [iOS 16 Mod](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/FallGuys16.ipa)
+  - Fortnite only supports iOS 16.0+.
+  - Fall Guys only supports iOS 17.4+ normally, this can be pushed down to iOS 16.0+ with the [iOS 16 Mod](https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/FallGuys16.ipa).
 
-- Why is it so laggy
-  - iPhones and iPads were never built for gaming despite what apple says
-  - Fortnite performance may be reduced if you have less then 24gb of free space
+- Why is it so laggy?
+  - iPhones and iPads were never built for gaming despite what Apple says.
+  - Fortnite performance may be reduced if you have less then 24GB of free space.
 
-- How do i install Trollstore?
-  - if you are running iOS 15.0-16.6.1 then you can use [this guide](https://ios.cfw.guide/installing-trollstore)
+- How do I install Trollstore?
+  - If you are running iOS 15.0-16.6.1 then you can use [this guide](https://ios.cfw.guide/installing-trollstore).
 
 ---
 
